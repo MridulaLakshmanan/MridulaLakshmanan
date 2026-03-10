@@ -13,7 +13,7 @@
 
 💡 Currently Building:
 - AI Tools Discovery Platform
-- LLM Powered Document Query System
+- NFT Ticketing System – Blockchain-Based Smart Ticketing Platform
 
 ⚡ Passionate about **building real-world impactful software**
 
@@ -21,7 +21,7 @@
 
 # 🧠 Currently Learning
 
-- 🤖 Machine Learning
+- 🤖 AI and Machine Learning
 - ☁️ Cloud Computing
 - 🧩 System Design
 - 💻 Data Structures & Algorithms
