@@ -1,6 +1,96 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on<br><br>A blockchain-based NFT ticketing system focused on secure ownership, fraud prevention, <br>and transparent ticket transfers, along with AI-focused projects that apply machine learning <br>and LLMs to solve real-world problems.<br><br>👯 I’m looking to collaborate on<br>AI-first projects, blockchain/Web3 applications, and cloud-based systems, especially hackathon <br>builds or real-world products that combine AI + decentralized tech + cloud infrastructure for scalability, <br>automation, and data-driven decision-making.<br><br>🤝 I’m looking for help with / 🌱 I’m currently learning<br><br>Advanced AI/ML concepts, LLM-based systems, Ethereum & smart contracts, and scalable backend architectures,<br> while improving how AI models are integrated into real products.<br><br>💬 Ask me about<br><br>NFT ticketing, Ethereum basics, AI project ideas, hackathon strategy, system-level programming (C/Java),<br> databases & SQL, or how to build resume-worthy tech projects as a college student.<br><br>⚡ Fun fact<br><br>I’m equally excited about AI models making decisions and blockchains making systems trustless—and I actively look for ways to combine both 😄<br>
+<!-- Typing Banner -->
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mridula+Lakshmanan;AI+%7C+Cloud+%7C+Full+Stack+Developer;Hackathon+Builder;Always+Learning+New+Tech!" />
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 Computer Science Engineering Student  
+🚀 Interested in **AI, Cloud Computing, Full Stack Development & DevOps**
+
+💡 Currently Building:
+- AI Tools Discovery Platform
+- LLM Powered Document Query System
+
+⚡ Passionate about **building real-world impactful software**
+
+---
+
+# 🧠 Currently Learning
+
+- 🤖 Machine Learning
+- ☁️ Cloud Computing
+- 🧩 System Design
+- 💻 Data Structures & Algorithms
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,mysql,git,github,vscode,aws,docker&perline=6" />
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💬 *I love turning ideas into working products through code.*
+
+---
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridula-lakshmanan-897a9131b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mridula2772006@gmail.com) 
