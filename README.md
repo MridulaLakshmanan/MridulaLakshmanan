@@ -9,14 +9,14 @@
 **# 👩‍💻 About Me**
 
 🎓 Computer Science Engineering Student  
-🚀 Interested in **AI, Cloud Computing
-**Love Exploring new Techs!!!*
+🚀 Interested in AI, Cloud Computing
+
 
 💡 Currently Building:
 - AI Tools Discovery Platform
 - NFT Ticketing System – Blockchain-Based Smart Ticketing Platform
 
-⚡ Passionate about **building real-world impactful software**
+⚡ Passionate about **building real-world impactful software and Love Exploring new Techs!!!**
 
 ---
 
