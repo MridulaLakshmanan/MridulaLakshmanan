@@ -13,7 +13,7 @@
 
 
 💡 Currently Building:
-- AI Tools Discovery Platform
+- AI Legal Guidance voicebot & Lawyer Marketplace
 - NFT Ticketing System – Blockchain-Based Smart Ticketing Platform
 
 ⚡ Passionate about **building real-world impactful software and Love Exploring new Techs!!!**
