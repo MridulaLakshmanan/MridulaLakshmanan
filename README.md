@@ -6,7 +6,7 @@
 
 ---
 
-**# 👩‍💻 About Me**
+# 👩‍💻 About Me
 
 🎓 Computer Science Engineering Student  
 🚀 Interested in AI, Cloud Computing
@@ -26,7 +26,7 @@ MY PROJECTS:
 - AI Resume Analyser(Worflow Automation)-n8n
 - AI Bias Detector 
 
-# 🧠 Currently Learning
+#  Currently Learning
 
 - 🤖 AI and Machine Learning
 - ☁️ Cloud Computing
@@ -59,7 +59,7 @@ MY PROJECTS:
 
 ---
 
-# 🧰 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
