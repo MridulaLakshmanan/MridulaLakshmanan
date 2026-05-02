@@ -1,7 +1,7 @@
 <!-- Typing Banner -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mridula+Lakshmanan;AI+%7C+Cloud+%7C+Data;Future+Entrepreneur;Always+Learning+New+Tech!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mridula+Lakshmanan;AI+%7C+Cloud+%7C+Data+%7C+Design;Future+Entrepreneur;Always+Learning+New+Tech!" />
 </p>
 
 ---
@@ -19,6 +19,12 @@
 ⚡ Passionate about **building real-world impactful software and Love Exploring new Techs!!!**
 
 ---
+MY PROJECTS:
+- ALL I NEED AI
+- AI Legal Guidance voicebot & Lawyer Marketplace
+- NFT Ticketing System – Blockchain-Based Smart Ticketing Platform
+- AI Resume Analyser(Worflow Automation)-n8n
+- AI Bias Detector 
 
 # 🧠 Currently Learning
 
