@@ -26,7 +26,7 @@
 - AI Resume Analyser(Worflow Automation)-n8n
 - AI Bias Detector 
 
-#Currently Learning
+# Currently Learning
 
 - 🤖 AI and Machine Learning
 - ☁️ Cloud Computing
