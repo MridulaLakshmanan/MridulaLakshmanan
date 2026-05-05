@@ -19,14 +19,14 @@
 ⚡ Passionate about **building real-world impactful software and Love Exploring new Techs!!!**
 
 ---
-<p style="color: red">MY PROJECTS:</p>
+**MY PROJECTS:**
 - ALL I NEED AI
 - AI Legal Guidance voicebot & Lawyer Marketplace
 - NFT Ticketing System – Blockchain-Based Smart Ticketing Platform
 - AI Resume Analyser(Worflow Automation)-n8n
 - AI Bias Detector 
 
-#  Currently Learning
+#Currently Learning
 
 - 🤖 AI and Machine Learning
 - ☁️ Cloud Computing
