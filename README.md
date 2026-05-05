@@ -19,7 +19,7 @@
 ⚡ Passionate about **building real-world impactful software and Love Exploring new Techs!!!**
 
 ---
-MY PROJECTS:
+<p style="color: red">MY PROJECTS:</p>
 - ALL I NEED AI
 - AI Legal Guidance voicebot & Lawyer Marketplace
 - NFT Ticketing System – Blockchain-Based Smart Ticketing Platform
