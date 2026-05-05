@@ -9,7 +9,7 @@
 # 👩‍💻 About Me
 
 🎓 Computer Science Engineering Student  
-🚀 Interested in AI, Cloud Computing
+✨ Interested in AI, Cloud Computing
 
 
 💡 Currently Building:
